@@ -7,7 +7,7 @@ I was experimenting with the code described in the video.
 If you are integersted please watch the video and take a look at my comments and code
 in my blog at:
 
-T.B.D.
+https://www.johncanessa.com/2020/04/28/object-oriented-programming-in-python/
 
 Enjoy;
 
